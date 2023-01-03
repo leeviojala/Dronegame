@@ -1,5 +1,8 @@
 ## How to run
 
+You should have following project running locally:
+https://github.com/solita/CyberCouriers2000
+
 To get all npm packages installed run
 
 ### `npm install`
